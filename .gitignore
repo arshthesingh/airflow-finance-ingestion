@@ -1,0 +1,26 @@
+# Ignore environment variable files (secrets)
+.env
+
+# Python bytecode + caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Log files
+logs/
+*.log
+
+# Docker-related artifacts
+docker-compose.override.yml
+
+# OS specific files
+.DS_Store
+
+
+airflow-finance.pem
+
+plugins/
