@@ -24,3 +24,5 @@ docker-compose.override.yml
 airflow-finance.pem
 
 plugins/
+
+finance-airflow.pem
